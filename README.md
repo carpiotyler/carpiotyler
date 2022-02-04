@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Tyler Carpio, a Full Stack Engineer
+
+🔭 I’m currently working on some cool stuff at Nelnet!
+
+📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/tylercarpio/)
 
 <!--
 **carpiotyler/carpiotyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
