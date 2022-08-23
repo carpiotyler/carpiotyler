@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Tyler Carpio, a Full Stack Engineer
 
-🔭 I’m currently working on some cool stuff at Nelnet!
+🔭 Previously: Rivian, Nelnet, Blue Yonder
 
 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/tylercarpio/)
